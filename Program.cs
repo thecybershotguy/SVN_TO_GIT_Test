@@ -8,7 +8,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is for tutorial purposes");
-            var test = new NewClass();
+            var newClassTest = new NewClass();
+            var tagTest = new ThisIsToTestNewTagVersion();
         }
     }
 }
